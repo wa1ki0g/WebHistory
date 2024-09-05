@@ -2,7 +2,9 @@
 
 ## \[简介]
 
-以前挖洞的时候写的一个基于[web.archive.org](http://web.archive.org "web.archive.org")的工具。Wayback Machine 存储了自1996年以来的网页数据，涵盖记录了大量的网站、请求和页面。比如输入为baidu.com，那么他会爬取baidu.com及其所有子域的历史记录，并提取pdf，xls，js，csv等结尾的与包含参数请求的url地址，可以自己写个nuclei的规则再扫下js里的key什么的。
+以前挖洞的时候写的一个基于[web.archive.org](http://web.archive.org "web.archive.org")的工具。比如输入为baidu.com，那么他会爬取baidu.com及其所有子域的历史记录，并提取pdf，xls，js，csv等结尾的与包含参数请求的url地址，可以自己写个nuclei的规则再扫下js里的key什么的。
+
+Wayback Machine 存储了自1996年以来的网页数据，涵盖记录了大量的网站、请求和页面：
 
 ![](image/image_doXgOSa_iO.png)
 

@@ -39,6 +39,7 @@ Usage:
 ## \[使用方法]
 
 main -u baidu.com
+
 main -f domain.txt -t 8
 
 输出在同目录下时间命名的文件夹里
